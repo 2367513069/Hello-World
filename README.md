@@ -1,2 +1,3 @@
 # Hello-World
-No-describe
+Hello world.
+This is the first time to us GitHub.
